@@ -1,0 +1,400 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Applications/intelFPGA
+Efull_circuit
+Z0 w1692579339
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dC:/Users/20920822/Workshops/Modelsim_Projects
+Z4 8C:/Users/20920822/Workshops/Modelsim_Projects/Wk4_Full_Circuit.vhd
+Z5 FC:/Users/20920822/Workshops/Modelsim_Projects/Wk4_Full_Circuit.vhd
+l0
+L5
+VKQ`GJzSFo^SHS2?1HFOz]1
+!s100 H^GakJA?[_Jf^J][JC^CZ0
+Z6 OV;C;10.5b;63
+32
+Z7 !s110 1692582841
+!i10b 1
+Z8 !s108 1692582841.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/20920822/Workshops/Modelsim_Projects/Wk4_Full_Circuit.vhd|
+Z10 !s107 C:/Users/20920822/Workshops/Modelsim_Projects/Wk4_Full_Circuit.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Av1
+R1
+R2
+DEx4 work 12 full_circuit 0 22 KQ`GJzSFo^SHS2?1HFOz]1
+l14
+L13
+V9TC9jJ:mk^cdAQ6G:2_9D0
+!s100 nNhBk126aR96<nUf552EL1
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Efull_circuit_2
+Z13 w1692579466
+R1
+R2
+R3
+Z14 8C:/Users/20920822/Workshops/Wk4_Full_Circuit_2.vhd
+Z15 FC:/Users/20920822/Workshops/Wk4_Full_Circuit_2.vhd
+l0
+L5
+VDkA`9nZ0MhJdRoHFONSOF0
+!s100 g;idgPfV]0jgia1j<91Bl3
+R6
+32
+R7
+!i10b 1
+R8
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/20920822/Workshops/Wk4_Full_Circuit_2.vhd|
+Z17 !s107 C:/Users/20920822/Workshops/Wk4_Full_Circuit_2.vhd|
+!i113 1
+R11
+R12
+Av1
+R1
+R2
+DEx4 work 14 full_circuit_2 0 22 DkA`9nZ0MhJdRoHFONSOF0
+l33
+L13
+VGC^L@m:L]<fP@FGkC9>GP1
+!s100 :?15WK0FlbC3J?N?<DIz63
+R6
+32
+R7
+!i10b 1
+R8
+R16
+R17
+!i113 1
+R11
+R12
+Esync_tb
+Z18 w1692582491
+R1
+R2
+R3
+Z19 8C:/Users/20920822/Workshops/Modelsim_Projects/sync_tb.vhd
+Z20 FC:/Users/20920822/Workshops/Modelsim_Projects/sync_tb.vhd
+l0
+L5
+V:aT519MB`2HKJJ^c5iLmM0
+!s100 MK^NOTD@?YkU;P53ijZmI3
+R6
+32
+R7
+!i10b 1
+R8
+Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/20920822/Workshops/Modelsim_Projects/sync_tb.vhd|
+Z22 !s107 C:/Users/20920822/Workshops/Modelsim_Projects/sync_tb.vhd|
+!i113 1
+R11
+R12
+Av1
+R1
+R2
+DEx4 work 7 sync_tb 0 22 :aT519MB`2HKJJ^c5iLmM0
+l35
+L8
+V?<oaLI35F<2S4U7l;:M202
+!s100 a?@8g1_PQ`205jo<WNYCf1
+R6
+32
+R7
+!i10b 1
+R8
+R21
+R22
+!i113 1
+R11
+R12
+Ewk4_d_pos_latch
+Z23 w1692577084
+R1
+R2
+R3
+Z24 8C:/Users/20920822/Workshops/Wk4_D_Pos_Latch.vhd
+Z25 FC:/Users/20920822/Workshops/Wk4_D_Pos_Latch.vhd
+l0
+L5
+VCdd8l2gJ5<:^IC?=?Qd`E0
+!s100 ]CDL5;HNe>@C3YW0Uhg<k2
+R6
+32
+Z26 !s110 1692577324
+!i10b 1
+Z27 !s108 1692577324.000000
+Z28 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/20920822/Workshops/Wk4_D_Pos_Latch.vhd|
+Z29 !s107 C:/Users/20920822/Workshops/Wk4_D_Pos_Latch.vhd|
+!i113 1
+R11
+R12
+Av1
+R1
+R2
+DEx4 work 15 wk4_d_pos_latch 0 22 Cdd8l2gJ5<:^IC?=?Qd`E0
+l14
+L13
+VGz;JPfn>oLaeaAQ?Oh5Ez0
+!s100 gO3c9GSmI]973jZ3692WJ3
+R6
+32
+R26
+!i10b 1
+R27
+R28
+R29
+!i113 1
+R11
+R12
+Ewk4_d_pos_latch_tb
+Z30 w1692577310
+R1
+R2
+R3
+Z31 8C:/Users/20920822/Workshops/Modelsim_Projects/Wk4_D_Pos_Latch_tb.vhd
+Z32 FC:/Users/20920822/Workshops/Modelsim_Projects/Wk4_D_Pos_Latch_tb.vhd
+l0
+L5
+V]O4WRV2d0YmN>oGl?ch>]3
+!s100 Q]cEgS;`LXGjlo=WAMmXQ1
+R6
+32
+Z33 !s110 1692577325
+!i10b 1
+R27
+Z34 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/20920822/Workshops/Modelsim_Projects/Wk4_D_Pos_Latch_tb.vhd|
+Z35 !s107 C:/Users/20920822/Workshops/Modelsim_Projects/Wk4_D_Pos_Latch_tb.vhd|
+!i113 1
+R11
+R12
+Av1
+R1
+R2
+DEx4 work 18 wk4_d_pos_latch_tb 0 22 ]O4WRV2d0YmN>oGl?ch>]3
+l25
+L8
+VH?:j<4N6V6c]=a0X<6fA02
+!s100 H@:HJQOeH1U1DP@>R5O>]3
+R6
+32
+R33
+!i10b 1
+R27
+R34
+R35
+!i113 1
+R11
+R12
+Ewk4_flipflop_async
+Z36 w1692579933
+R1
+R2
+R3
+Z37 8C:/Users/20920822/Workshops/Wk4_Flipflop_Async.vhd
+Z38 FC:/Users/20920822/Workshops/Wk4_Flipflop_Async.vhd
+l0
+L5
+V7GW@I4mC8Vk7zYniZFZol3
+!s100 OY0VnEeVU5zdn74`>?BzM0
+R6
+32
+R7
+!i10b 1
+R8
+Z39 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/20920822/Workshops/Wk4_Flipflop_Async.vhd|
+Z40 !s107 C:/Users/20920822/Workshops/Wk4_Flipflop_Async.vhd|
+!i113 1
+R11
+R12
+Av1
+R1
+R2
+Z41 DEx4 work 18 wk4_flipflop_async 0 22 7GW@I4mC8Vk7zYniZFZol3
+l15
+L14
+Z42 VHlBK1=ncbN:63BX4HiOkc1
+Z43 !s100 =FH=T>:FRn;[QeXdaSSgR2
+R6
+32
+R7
+!i10b 1
+R8
+R39
+R40
+!i113 1
+R11
+R12
+Ewk4_flipflop_sync
+Z44 w1692582409
+R1
+R2
+R3
+Z45 8C:/Users/20920822/Workshops/Wk4_Flipflop_Sync.vhd
+Z46 FC:/Users/20920822/Workshops/Wk4_Flipflop_Sync.vhd
+l0
+L5
+V^S@WWfkfiYKGH;YegWoMN2
+!s100 KgT4JzeE=Wi275B`B@<3D2
+R6
+32
+R7
+!i10b 1
+R8
+Z47 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/20920822/Workshops/Wk4_Flipflop_Sync.vhd|
+Z48 !s107 C:/Users/20920822/Workshops/Wk4_Flipflop_Sync.vhd|
+!i113 1
+R11
+R12
+Av1
+R1
+R2
+DEx4 work 17 wk4_flipflop_sync 0 22 ^S@WWfkfiYKGH;YegWoMN2
+l15
+L14
+VnmOJIY?lL`H6:oFi1O^0m3
+!s100 k0RZXjYC[5BSB^`KzQAMz1
+R6
+32
+R7
+!i10b 1
+R8
+R47
+R48
+!i113 1
+R11
+R12
+Ewk4_neg_flipflop
+Z49 w1692579310
+R1
+R2
+R3
+Z50 8C:/Users/20920822/Workshops/Wk4_Neg_Flipflop.vhd
+Z51 FC:/Users/20920822/Workshops/Wk4_Neg_Flipflop.vhd
+l0
+L5
+VPfZUEJ[<5niknZEXXzkPW1
+!s100 hWW<d;^H1FIb9_0>bBeiB2
+R6
+32
+R7
+!i10b 1
+R8
+Z52 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/20920822/Workshops/Wk4_Neg_Flipflop.vhd|
+Z53 !s107 C:/Users/20920822/Workshops/Wk4_Neg_Flipflop.vhd|
+!i113 1
+R11
+R12
+Av1
+R1
+R2
+DEx4 work 16 wk4_neg_flipflop 0 22 PfZUEJ[<5niknZEXXzkPW1
+l14
+L13
+VPb:cGI=8Ie:Q^zXGG70Wa2
+!s100 oBo]@XezfghcIM>bB2]m82
+R6
+32
+R7
+!i10b 1
+R8
+R52
+R53
+!i113 1
+R11
+R12
+Ewk4_pos_flipflop
+Z54 w1692579279
+R1
+R2
+R3
+Z55 8C:/Users/20920822/Workshops/Wk4_Pos_Flipflop.vhd
+Z56 FC:/Users/20920822/Workshops/Wk4_Pos_Flipflop.vhd
+l0
+L5
+VhSCFdPzRRPV`ZK?<YF`@D2
+!s100 oLf?F`NUgFA2`WZIIUVTi1
+R6
+32
+R7
+!i10b 1
+R8
+Z57 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/20920822/Workshops/Wk4_Pos_Flipflop.vhd|
+Z58 !s107 C:/Users/20920822/Workshops/Wk4_Pos_Flipflop.vhd|
+!i113 1
+R11
+R12
+Av1
+R1
+R2
+DEx4 work 16 wk4_pos_flipflop 0 22 hSCFdPzRRPV`ZK?<YF`@D2
+l14
+L13
+VA3]`i3>zOUXnX5i]gIKmL0
+!s100 di91YdL[_EV[GX@[eAlkY1
+R6
+32
+R7
+!i10b 1
+R8
+R57
+R58
+!i113 1
+R11
+R12
+Ewk4_tb_1
+Z59 w1692582838
+R1
+R2
+R3
+Z60 8C:/Users/20920822/Workshops/Modelsim_Projects/Wk4_tb_1.vhd
+Z61 FC:/Users/20920822/Workshops/Modelsim_Projects/Wk4_tb_1.vhd
+l0
+L5
+VEG3]GJR@2nR1V27PO3kSW2
+!s100 Bdb8hHd^TVC`J9LHo0iZA2
+R6
+32
+R7
+!i10b 1
+R8
+Z62 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/20920822/Workshops/Modelsim_Projects/Wk4_tb_1.vhd|
+Z63 !s107 C:/Users/20920822/Workshops/Modelsim_Projects/Wk4_tb_1.vhd|
+!i113 1
+R11
+R12
+Av1
+R1
+R2
+DEx4 work 8 wk4_tb_1 0 22 EG3]GJR@2nR1V27PO3kSW2
+l25
+L8
+V^7IHkWJImD=Sm2WS>mLa>2
+!s100 KR@eKk:[eh6bFElD]@]I@0
+R6
+32
+R7
+!i10b 1
+R8
+R62
+R63
+!i113 1
+R11
+R12

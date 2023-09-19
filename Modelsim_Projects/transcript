@@ -1,0 +1,349 @@
+# Compile of Wk4_D_Pos_Latch.vhd was successful.
+# Compile of Wk4_D_Pos_Latch.vhd was successful.
+# Compile of Wk4_D_Pos_Latch_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.wk4_d_pos_latch_tb
+# vsim -gui work.wk4_d_pos_latch_tb 
+# Start time: 08:23:55 on Aug 21,2023
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.wk4_d_pos_latch_tb(v1)
+# Loading work.wk4_d_pos_latch(v1)
+run
+vsim -gui work.wk4_d_pos_latch_tb
+# End time: 08:25:43 on Aug 21,2023, Elapsed time: 0:01:48
+# Errors: 0, Warnings: 0
+# vsim -gui work.wk4_d_pos_latch_tb 
+# Start time: 08:25:43 on Aug 21,2023
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.wk4_d_pos_latch_tb(v1)
+# Loading work.wk4_d_pos_latch(v1)
+add wave -position end  sim:/wk4_d_pos_latch_tb/D
+add wave -position end  sim:/wk4_d_pos_latch_tb/CLK
+add wave -position end  sim:/wk4_d_pos_latch_tb/Q
+add wave -position end  sim:/wk4_d_pos_latch_tb/T
+run
+run
+run
+run -all
+# Load canceled
+# Load canceled
+# Load canceled
+# Load canceled
+# Compile of Wk4_tb_1.vhd was successful.
+vsim -gui work.wk4_tb_1
+# End time: 09:19:37 on Aug 21,2023, Elapsed time: 0:53:54
+# Errors: 4, Warnings: 0
+# vsim -gui work.wk4_tb_1 
+# Start time: 09:19:37 on Aug 21,2023
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.wk4_tb_1(v1)
+# ** Warning: (vsim-3473) Component instance "DUT : Full_circuit" is not bound.
+#    Time: 0 ps  Iteration: 0  Instance: /wk4_tb_1 File: C:/Users/20920822/Workshops/Modelsim_Projects/Wk4_tb_1.vhd
+add wave -position end  sim:/wk4_tb_1/D
+add wave -position end  sim:/wk4_tb_1/CLK
+add wave -position end  sim:/wk4_tb_1/Qa
+add wave -position end  sim:/wk4_tb_1/Qb
+add wave -position end  sim:/wk4_tb_1/Qc
+add wave -position end  sim:/wk4_tb_1/T
+run -all
+run -all
+vsim -gui work.wk4_tb_1
+# End time: 09:26:53 on Aug 21,2023, Elapsed time: 0:07:16
+# Errors: 0, Warnings: 1
+# vsim -gui work.wk4_tb_1 
+# Start time: 09:26:53 on Aug 21,2023
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.wk4_tb_1(v1)
+# ** Warning: (vsim-3473) Component instance "DUT : Full_circuit" is not bound.
+#    Time: 0 ps  Iteration: 0  Instance: /wk4_tb_1 File: C:/Users/20920822/Workshops/Modelsim_Projects/Wk4_tb_1.vhd
+run -all
+vsim -gui work.wk4_tb_1
+# End time: 09:27:14 on Aug 21,2023, Elapsed time: 0:00:21
+# Errors: 0, Warnings: 1
+# vsim -gui work.wk4_tb_1 
+# Start time: 09:27:14 on Aug 21,2023
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.wk4_tb_1(v1)
+# ** Warning: (vsim-3473) Component instance "DUT : Full_circuit" is not bound.
+#    Time: 0 ps  Iteration: 0  Instance: /wk4_tb_1 File: C:/Users/20920822/Workshops/Modelsim_Projects/Wk4_tb_1.vhd
+run -all
+# Compile of Wk4_Full_Circuit.vhd was successful.
+vsim -gui work.wk4_tb_1
+# End time: 09:29:00 on Aug 21,2023, Elapsed time: 0:01:46
+# Errors: 0, Warnings: 1
+# vsim -gui work.wk4_tb_1 
+# Start time: 09:29:00 on Aug 21,2023
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.wk4_tb_1(v1)
+# Loading work.full_circuit(v1)
+run -all
+add wave -position end  sim:/wk4_tb_1/D
+add wave -position end  sim:/wk4_tb_1/CLK
+add wave -position end  sim:/wk4_tb_1/Qa
+add wave -position end  sim:/wk4_tb_1/Qb
+add wave -position end  sim:/wk4_tb_1/Qc
+run -all
+# Compile of Wk4_tb_1.vhd was successful.
+# Compile of Wk4_Full_Circuit.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.wk4_tb_1
+# End time: 09:30:17 on Aug 21,2023, Elapsed time: 0:01:17
+# Errors: 0, Warnings: 0
+# vsim -gui work.wk4_tb_1 
+# Start time: 09:30:17 on Aug 21,2023
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.wk4_tb_1(v1)
+# Loading work.full_circuit(v1)
+add wave -position end  sim:/wk4_tb_1/D
+add wave -position end  sim:/wk4_tb_1/CLK
+add wave -position end  sim:/wk4_tb_1/Qa
+add wave -position end  sim:/wk4_tb_1/Qb
+add wave -position end  sim:/wk4_tb_1/Qc
+run -all
+# Compile of Wk4_tb_1.vhd was successful.
+# Compile of Wk4_Full_Circuit.vhd was successful.
+# Compile of Wk4_Full_Circuit_2.vhd was successful.
+# Compile of full_circuit_2_tb.vhd was successful.
+# 4 compiles, 0 failed with no errors.
+vsim -gui work.full_circuit_2
+# End time: 09:34:41 on Aug 21,2023, Elapsed time: 0:04:24
+# Errors: 0, Warnings: 0
+# vsim -gui work.full_circuit_2 
+# Start time: 09:34:41 on Aug 21,2023
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.full_circuit_2(v1)
+# Loading work.wk4_d_pos_latch(v1)
+# ** Warning: (vsim-3473) Component instance "pos_flipflop : Wk4_Pos_Flipflop" is not bound.
+#    Time: 0 ps  Iteration: 0  Instance: /full_circuit_2 File: C:/Users/20920822/Workshops/Wk4_Full_Circuit_2.vhd
+# ** Warning: (vsim-3473) Component instance "neg_flipflop : Wk4_Neg_Flipflop" is not bound.
+#    Time: 0 ps  Iteration: 0  Instance: /full_circuit_2 File: C:/Users/20920822/Workshops/Wk4_Full_Circuit_2.vhd
+add wave -position end  sim:/full_circuit_2/D
+add wave -position end  sim:/full_circuit_2/CLK
+add wave -position end  sim:/full_circuit_2/Qa
+add wave -position end  sim:/full_circuit_2/Qb
+add wave -position end  sim:/full_circuit_2/Qc
+run -all
+# Compile of Wk4_tb_1.vhd was successful.
+# Compile of Wk4_Full_Circuit.vhd was successful.
+# Compile of Wk4_Full_Circuit_2.vhd was successful.
+# Compile of full_circuit_2_tb.vhd was successful.
+# Compile of Wk4_Pos_Flipflop.vhd was successful.
+# Compile of Wk4_Neg_Flipflop.vhd was successful.
+# 6 compiles, 0 failed with no errors.
+# Compile of Wk4_Neg_Flipflop.vhd was successful.
+vsim -gui work.full_circuit_2
+# End time: 09:35:38 on Aug 21,2023, Elapsed time: 0:00:57
+# Errors: 0, Warnings: 2
+# vsim -gui work.full_circuit_2 
+# Start time: 09:35:38 on Aug 21,2023
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.full_circuit_2(v1)
+# Loading work.wk4_d_pos_latch(v1)
+# Loading work.wk4_pos_flipflop(v1)
+# Loading work.wk4_neg_flipflop(v1)
+add wave -position end  sim:/full_circuit_2/CLK
+add wave -position end  sim:/full_circuit_2/D
+add wave -position end  sim:/full_circuit_2/Qa
+add wave -position end  sim:/full_circuit_2/Qb
+add wave -position end  sim:/full_circuit_2/Qc
+run -all
+# Compile of Wk4_tb_1.vhd was successful.
+# Compile of Wk4_Full_Circuit.vhd was successful.
+# Compile of Wk4_Full_Circuit_2.vhd was successful.
+# Compile of full_circuit_2_tb.vhd was successful.
+# Compile of Wk4_Pos_Flipflop.vhd was successful.
+# Compile of Wk4_Neg_Flipflop.vhd was successful.
+# 6 compiles, 0 failed with no errors.
+vsim -gui work.full_circuit_2
+# End time: 09:36:45 on Aug 21,2023, Elapsed time: 0:01:07
+# Errors: 0, Warnings: 0
+# vsim -gui work.full_circuit_2 
+# Start time: 09:36:45 on Aug 21,2023
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.full_circuit_2(v1)
+# Loading work.wk4_d_pos_latch(v1)
+# Loading work.wk4_pos_flipflop(v1)
+# Loading work.wk4_neg_flipflop(v1)
+add wave -position end  sim:/full_circuit_2/CLK
+add wave -position end  sim:/full_circuit_2/CLK
+add wave -position end  sim:/full_circuit_2/D
+add wave -position end  sim:/full_circuit_2/Qa
+add wave -position end  sim:/full_circuit_2/Qb
+add wave -position end  sim:/full_circuit_2/Qc
+# Load canceled
+run -all
+# Compile of Wk4_tb_1.vhd was successful.
+vsim -gui work.wk4_tb_1
+# End time: 09:38:33 on Aug 21,2023, Elapsed time: 0:01:48
+# Errors: 1, Warnings: 0
+# vsim -gui work.wk4_tb_1 
+# Start time: 09:38:33 on Aug 21,2023
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.wk4_tb_1(v1)
+# Loading work.full_circuit_2(v1)
+# Loading work.wk4_d_pos_latch(v1)
+# Loading work.wk4_pos_flipflop(v1)
+# Loading work.wk4_neg_flipflop(v1)
+add wave -position end  sim:/wk4_tb_1/CLK
+add wave -position end  sim:/wk4_tb_1/D
+add wave -position end  sim:/wk4_tb_1/Qa
+add wave -position end  sim:/wk4_tb_1/Qb
+add wave -position end  sim:/wk4_tb_1/Qc
+run -all
+# Compile of Wk4_tb_1.vhd was successful.
+# Compile of Wk4_Full_Circuit.vhd was successful.
+# Compile of Wk4_Full_Circuit_2.vhd was successful.
+# Compile of Wk4_Pos_Flipflop.vhd was successful.
+# Compile of Wk4_Neg_Flipflop.vhd was successful.
+# Compile of sync_tb.vhd failed with 1 errors.
+# Compile of Wk4_Flipflop_Sync.vhd was successful.
+# Compile of Wk4_Flipflop_Async.vhd was successful.
+# 8 compiles, 1 failed with 1 error.
+# Compile of sync_tb.vhd failed with 7 errors.
+# Compile of sync_tb.vhd was successful.
+vsim -gui work.sync_tb
+# End time: 09:44:03 on Aug 21,2023, Elapsed time: 0:05:30
+# Errors: 0, Warnings: 0
+# vsim -gui work.sync_tb 
+# Start time: 09:44:03 on Aug 21,2023
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.sync_tb(v1)
+# Loading work.wk4_flipflop_sync(v1)
+add wave -position end  sim:/sync_tb/CLK
+add wave -position end  sim:/sync_tb/D
+add wave -position end  sim:/sync_tb/Q
+add wave -position end  sim:/sync_tb/R
+run -all
+# Compile of Wk4_Flipflop_Sync.vhd was successful.
+# Compile of Wk4_tb_1.vhd was successful.
+# Compile of Wk4_Full_Circuit.vhd was successful.
+# Compile of Wk4_Full_Circuit_2.vhd was successful.
+# Compile of Wk4_Pos_Flipflop.vhd was successful.
+# Compile of Wk4_Neg_Flipflop.vhd was successful.
+# Compile of sync_tb.vhd was successful.
+# Compile of Wk4_Flipflop_Sync.vhd was successful.
+# Compile of Wk4_Flipflop_Async.vhd was successful.
+# 8 compiles, 0 failed with no errors.
+vsim -gui work.sync_tb
+# End time: 09:47:22 on Aug 21,2023, Elapsed time: 0:03:19
+# Errors: 0, Warnings: 0
+# vsim -gui work.sync_tb 
+# Start time: 09:47:22 on Aug 21,2023
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.sync_tb(v1)
+# Loading work.wk4_flipflop_sync(v1)
+add wave -position end  sim:/sync_tb/CLK
+add wave -position end  sim:/sync_tb/D
+add wave -position end  sim:/sync_tb/Q
+add wave -position end  sim:/sync_tb/R
+run -all
+# Compile of Wk4_tb_1.vhd was successful.
+# Compile of Wk4_Full_Circuit.vhd was successful.
+# Compile of Wk4_Full_Circuit_2.vhd was successful.
+# Compile of Wk4_Pos_Flipflop.vhd was successful.
+# Compile of Wk4_Neg_Flipflop.vhd was successful.
+# Compile of sync_tb.vhd was successful.
+# Compile of Wk4_Flipflop_Sync.vhd was successful.
+# Compile of Wk4_Flipflop_Async.vhd was successful.
+# 8 compiles, 0 failed with no errors.
+vsim -gui work.sync_tb
+# End time: 09:48:33 on Aug 21,2023, Elapsed time: 0:01:11
+# Errors: 0, Warnings: 0
+# vsim -gui work.sync_tb 
+# Start time: 09:48:33 on Aug 21,2023
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.sync_tb(v1)
+# Loading work.wk4_flipflop_async(v1)
+add wave -position end  sim:/sync_tb/CLK
+add wave -position end  sim:/sync_tb/D
+add wave -position end  sim:/sync_tb/Q
+add wave -position end  sim:/sync_tb/R
+run -all
+vsim -gui work.full_circuit
+# End time: 09:49:50 on Aug 21,2023, Elapsed time: 0:01:17
+# Errors: 0, Warnings: 0
+# vsim -gui work.full_circuit 
+# Start time: 09:49:50 on Aug 21,2023
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.full_circuit(v1)
+run -all
+vsim -gui work.wk4_d_pos_latch_tb
+# End time: 09:50:12 on Aug 21,2023, Elapsed time: 0:00:22
+# Errors: 0, Warnings: 0
+# vsim -gui work.wk4_d_pos_latch_tb 
+# Start time: 09:50:12 on Aug 21,2023
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.wk4_d_pos_latch_tb(v1)
+# Loading work.wk4_d_pos_latch(v1)
+vsim -gui work.wk4_tb_1
+# End time: 09:50:32 on Aug 21,2023, Elapsed time: 0:00:20
+# Errors: 0, Warnings: 0
+# vsim -gui work.wk4_tb_1 
+# Start time: 09:50:32 on Aug 21,2023
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.wk4_tb_1(v1)
+# Loading work.full_circuit_2(v1)
+# Loading work.wk4_d_pos_latch(v1)
+# Loading work.wk4_pos_flipflop(v1)
+# Loading work.wk4_neg_flipflop(v1)
+# Compile of Wk4_tb_1.vhd was successful.
+# Compile of Wk4_Full_Circuit.vhd was successful.
+# Compile of Wk4_Full_Circuit_2.vhd was successful.
+# Compile of Wk4_Pos_Flipflop.vhd was successful.
+# Compile of Wk4_Neg_Flipflop.vhd was successful.
+# Compile of sync_tb.vhd was successful.
+# Compile of Wk4_Flipflop_Sync.vhd was successful.
+# Compile of Wk4_Flipflop_Async.vhd was successful.
+# 8 compiles, 0 failed with no errors.
+vsim -gui work.wk4_tb_1
+# End time: 09:54:13 on Aug 21,2023, Elapsed time: 0:03:41
+# Errors: 0, Warnings: 0
+# vsim -gui work.wk4_tb_1 
+# Start time: 09:54:13 on Aug 21,2023
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.wk4_tb_1(v1)
+# Loading work.full_circuit(v1)
+add wave -position end  sim:/wk4_tb_1/CLK
+add wave -position end  sim:/wk4_tb_1/D
+add wave -position end  sim:/wk4_tb_1/Qa
+add wave -position end  sim:/wk4_tb_1/Qb
+add wave -position end  sim:/wk4_tb_1/Qc
+run -all
+# End time: 10:20:45 on Aug 21,2023, Elapsed time: 0:26:32
+# Errors: 0, Warnings: 0
